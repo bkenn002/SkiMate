@@ -1,0 +1,2 @@
+# SkiMate
+Software Engineering Class
