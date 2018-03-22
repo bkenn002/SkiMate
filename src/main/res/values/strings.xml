@@ -1,0 +1,35 @@
+<resources>
+    // Main Page Buttons
+    <string name="app_name">SkiMate</string>
+    <string name="button_Mountain">Mountain Search</string>
+    <string name="button_Community">Community</string>
+    <string name="button_Friends">Friends</string>
+    <string name="button_Help">Help</string>
+    <string name="button_Profile">Update Profile</string>
+    <string name="button_User">User</string>
+    <string name="app_name1">Welcome to SkiMate</string>
+
+    // Main Page Toasts
+    <string name="mountain_toast">Moving to Mountain Page!</string>
+    <string name="community_toast">Moving to Community Page!</string>
+    <string name="friends_toast">Moving to Friends Page!</string>
+    <string name="profile_toast">Moving to Update Profile Page!</string>
+    <string name="help_toast">Moving to Help Page!</string>
+
+    // Update Profile Toast
+    <string name="user_toast">Updated Successfully!</string>
+
+    // Page Hellos
+    <string name="mountain_hello">Welcome to the Mountain Page!</string>
+    <string name="community_hello">Welcome to the Community Page!</string>
+    <string name="friends_hello"> Welcome to the Friends Page!</string>
+    <string name="profile_hello">Welcome to the Profile Page!</string>
+    <string name="help_hello">Welcome to the Help Page!</string>
+
+
+
+    <string name="button_submit">Submit</string>
+    <string name="textView1"></string>
+
+
+</resources>
